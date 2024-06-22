@@ -6,18 +6,6 @@
 
 - 👨‍💻 Full Stack **Web Developer** focused on **PHP** and **Laravel**
 
-- 🔭 I’m currently working on **[sygest](https://github.com/devpeterkuno)**
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **HTML, CSS, JS, PHP, Laravel, SQL...**
-
-- 📫 How to reach me **euphemiaadamson817@gmail.com**
-
-- 📄 Know about my experiences **[clicking here](https://docs.google.com/document/d/1MVzzWdxLHZVzt9KayPrOVMLL67aWYxDa0TlRWofzKZE/edit?usp=drive_link)** (pt-BR)
-
-- ⚡ Fun fact **I love Nintendo ❤**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://codepen.io/devpeterkuno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devpeterkuno" height="30" width="40" /></a>
